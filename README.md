@@ -1,5 +1,7 @@
+<img src="https://github.com/jinsley8/jinsley8/blob/main/github-banner.jpg" alt="jinsley8 - developer" />
+
 ### Hi there 👋
 
-I'm a developer who works with React, Next.js, React Native, Node.js, PostgreSQL, and MongoDB
+I'm a developer who works with JavaScript, React, Next.js, React Native, Node.js, PostgreSQL, and MongoDB
 
 🌱 I’m currently learning Solidity, GraphQL, Typescript and Swift
